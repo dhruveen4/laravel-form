@@ -13,7 +13,9 @@ nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
         <li class="nav-item">
             <a class="nav-link" href="{{route('about')}}">About</a>
         </li>
-
+        <li class="nav-item">
+            <a class="nav-link" href="{{route('contact')}}">Contact</a>
+        </li>
     </ul>
 </div>
 </nav>
