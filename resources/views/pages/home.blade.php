@@ -5,7 +5,7 @@
     <div class="jumbotron">
         <div class="container">
             <h1 class="display-3">Hello, World!</h1>
-            <p>Welocme to Laravel</p>
+            <p>Welocme to Laravel framework.Use this framework to expand your knowlwdge and be a Website developer.</p>
             <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
         </div>
     </div>
